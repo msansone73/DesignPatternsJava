@@ -8,7 +8,7 @@ public class entryPoint {
 				.setRobotHead("cabeção")
 				.setRobotTorso("barrigão")
 				.setRobotArms("bração")
-				.setRobotLegs("pernão")
+				.setRobotLegs("pernoca")
 				.getRobot();
 		
 		System.out.println(robot.toString());
